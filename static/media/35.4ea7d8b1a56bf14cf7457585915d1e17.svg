@@ -1,0 +1,21 @@
+<svg id="35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 200 700 800">
+  <defs>
+    <g id="c">
+      <path id="a" d="M0 0v300c0 212.3 101.5 402 350 500 248.5-98 350-287.7 350-500V0H0z"/>
+      <clipPath id="b">
+        <use xlink:href="#a"/>
+      </clipPath>
+      <g clip-path="url(#b)">
+        <path fill="#c00" d="M0 0h700v800H0z"/>
+        <path fill="#005c6c" stroke="#004047" stroke-width="4" d="M0 0h350v800H0z"/>
+        <path fill="#eee" stroke="#777" stroke-linejoin="round" stroke-width="4" d="M470 554c-25.5 0-37.3-7.2-50.4-17.9-30-24.6-44.6-75.7-44.6-156.1v-20h105c15 0 27 1.5 40 10v-70c-13 8.5-25 10-40 10H375v-80h105c15 0 27 1.5 40 10v-70c-13 8.5-25 10-40 10H375v-70c0-15 1.5-27 10-40h-70c8.5 13 10 25 10 40v70H220c-15 0-27-1.5-40-10v70c13-8.5 25-10 40-10h105v80H220c-15 0-27-1.5-40-10v70c13-8.5 25-10 40-10h105v20c0 80.4-14.6 131.4-44.6 156.1-13 10.7-24.9 17.9-50.4 17.9-42.8 0-113-74-113-74 20.4 37.6 52.5 98 53 144 9-17 14.5-20 60-20 28.3 0 60-11.2 82.1-29.3 15.5-12.7 28.2-29.4 37.9-49.9 9.7 20.5 22.4 37.2 37.9 49.9C410 592.8 441.8 604 470 604c45.5 0 51 3 60 20 .5-46 32.6-106.4 53-144 0 0-70.2 74-113 74z"/>
+      </g>
+      <g fill="none" clip-path="url(#b)">
+        <use xlink:href="#a" stroke="#850" stroke-width="50"/>
+        <use xlink:href="#a" stroke="#fc0" stroke-width="40"/>
+        <use xlink:href="#a" stroke="#850" stroke-width="10"/>
+      </g>
+    </g>
+  </defs>
+  <use xlink:href="#c" y="200"/>
+</svg>
